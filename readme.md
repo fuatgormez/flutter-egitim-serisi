@@ -1,6 +1,6 @@
 # Flutter Eğitim Serisi
 
-Hazırlmamış olduğum flutter eğitim serisi videolarına ait kaynak kodlarını bu repository'de bulabilirsiniz.
+Hazırlamış olduğum flutter eğitim serisi videolarına ait kaynak kodlarını bu repository'de bulabilirsiniz.
 
 ## Flutter Nedir? Flutter Kurulumu
 
